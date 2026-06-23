@@ -1,21 +1,43 @@
 project:
   type: website
+  output-dir: docs
+  resources:
+    - files/**
+  render:
+    - index.qmd
+    - about.qmd
+    - projects.qmd
+    - cv.qmd
+    - contact.qmd
 
 website:
   title: "Lutong Wen"
+  site-url: "https://wenlutong199-oss.github.io/wenlutong199.github.io/"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: "Home"
+        href: index.qmd
+      - text: "About You"
+        href: about.qmd
+      - text: "Projects"
+        href: projects.qmd
+      - text: "CV"
+        href: cv.qmd
+      - text: "Contact"
+        href: contact.qmd
+    right:
+      - icon: github
+        href: https://github.com/wenlutong199-oss
+      - text: "LinkedIn"
+        href: https://www.linkedin.com/in/lutong-wen-a26396340/
+  page-footer:
+    center: "© 2026 Lutong Wen | Applied Business Analytics Portfolio"
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmo
     css: styles.css
-    toc: true
-
-
-
+    toc: false
+    page-layout: full
+    smooth-scroll: true
+    link-external-newwindow: true

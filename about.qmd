@@ -1,5 +1,55 @@
 ---
-title: "About"
+pagetitle: "About Me"
 ---
 
-About this site
+<div class="page-hero">
+
+<p class="hero-label">About Me</p>
+
+<h1>Professional Introduction</h1>
+
+<h2>Applied Business Analytics student with a project management background</h2>
+
+<p>
+My name is Lutong Wen, and I am currently pursuing a Master of Science in Applied Business Analytics at Boston University Metropolitan College. I also completed a Master of Science in Project Management at Boston University MET.
+</p>
+
+<p>
+My academic and professional interests focus on business analytics, marketing analytics, data visualization, cloud computing, and project management. I am especially interested in using data to support business decisions, improve customer understanding, and communicate insights clearly.
+</p>
+
+</div>
+
+## Academic and Career Interests
+
+<div class="card-grid">
+
+<div class="info-card">
+<h3>Business Analytics</h3>
+<p>I am interested in using data to identify patterns, evaluate business problems, and support practical decision-making.</p>
+</div>
+
+<div class="info-card">
+<h3>Marketing and Web Analytics</h3>
+<p>My coursework has helped me analyze customer behavior, campaign performance, A/B testing results, and digital engagement.</p>
+</div>
+
+<div class="info-card">
+<h3>Cloud and Technical Skills</h3>
+<p>I have practiced using tools such as Python, SQL, Tableau, GitHub, Quarto, and AWS through academic projects and labs.</p>
+</div>
+
+<div class="info-card">
+<h3>Project Management</h3>
+<p>My project management background helps me organize work, communicate clearly, understand stakeholder needs, and connect analysis to business value.</p>
+</div>
+
+</div>
+
+## Personal Brand
+
+<div class="wide-card">
+<p>
+My portfolio reflects two connected areas: analytics and project management. I want my work to show that I can not only analyze data, but also organize tasks, explain results, and connect findings to real business needs.
+</p>
+</div>

@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "\nLet’s Connect\n",
+    "section": "",
+    "text": "Contact\n\n\n\n\nThank you for visiting my portfolio website. You can contact or connect with me through the channels below.\n\n\nEmail Me LinkedIn"
+  },
+  {
+    "objectID": "contact.html#contact-information",
+    "href": "contact.html#contact-information",
+    "title": "\nLet’s Connect\n",
+    "section": "Contact Information",
+    "text": "Contact Information\n\n\n\nEmail\n\n\nwenlutong199@gmail.com\n\n\n\n\nGitHub\n\n\nwenlutong199-oss\n\n\n\n\nLinkedIn\n\n\nLutong Wen\n\n\n\n\nPortfolio Website\n\n\nLutong Wen Portfolio"
+  },
+  {
+    "objectID": "contact.html#professional-interests",
+    "href": "contact.html#professional-interests",
+    "title": "\nLet’s Connect\n",
+    "section": "Professional Interests",
+    "text": "Professional Interests\n\n\nI am open to professional networking, academic collaboration, and opportunities related to business analytics, marketing analytics, project management, and cloud-based analytics."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "The projects below highlight my coursework and technical development in analytics, visualization, cloud computing, and project management.\n\n\n\n\n\n\nArea: Web Analytics, Business Analytics, Portfolio Development\n\n\nTools: GitHub, Quarto, Python, Tableau, analytics reporting\n\n\nThis team project represents collaborative course work in AD 688. The project involved working in a shared GitHub repository, organizing analysis files, developing portfolio-related analytics content, and communicating technical work in a professional format.\n\n\nView Team GitHub Repository\n\n\nTeam Project GitHub Quarto Analytics\n\n\n\n\n\n\n\n\n\nArea: Marketing Analytics\n\n\nTools: Tableau, Python, statistical testing\n\n\nIn AD 654 Marketing Analytics, I analyzed customer and campaign data using summary statistics, Tableau dashboards, clustering, and A/B testing. One project compared email image performance using click-through rate, CTA response rate, conversion rate, and unsubscribe rate.\n\n\nMarketing Analytics A/B Testing Tableau\n\n\n\n\n\n\n\n\n\nArea: Customer Analytics\n\n\nTools: K-means clustering, standardization, interpretation\n\n\nI used K-means clustering to segment customer data based on behavior, spending, visit patterns, and engagement indicators. The project included data preparation, model selection, cluster interpretation, and business recommendations.\n\n\nClustering Segmentation Business Insights\n\n\n\n\n\n\n\n\n\nArea: Cloud Computing\n\n\nTools: AWS EC2, VPC, EBS, RDS, Lambda, ELB, Auto Scaling, Elastic Beanstalk\n\n\nI completed AWS Cloud Foundations labs covering major cloud services and deployment concepts. These labs helped me understand cloud infrastructure, networking, storage, serverless computing, and basic deployment workflows.\n\n\nAWS EC2 Lambda Cloud Foundations\n\n\n\n\n\n\n\n\n\nArea: Personal Portfolio and Web Publishing\n\n\nTools: Quarto, GitHub Pages, HTML, CSS\n\n\nThis portfolio website was built with Quarto and hosted through GitHub Pages. It presents my academic background, technical projects, CV, and contact information in a clear professional format for employers and networking.\n\n\nPortfolio Quarto GitHub Pages"
+  },
+  {
+    "objectID": "projects.html#academic-and-technical-projects",
+    "href": "projects.html#academic-and-technical-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "The projects below highlight my coursework and technical development in analytics, visualization, cloud computing, and project management.\n\n\n\n\n\n\nArea: Web Analytics, Business Analytics, Portfolio Development\n\n\nTools: GitHub, Quarto, Python, Tableau, analytics reporting\n\n\nThis team project represents collaborative course work in AD 688. The project involved working in a shared GitHub repository, organizing analysis files, developing portfolio-related analytics content, and communicating technical work in a professional format.\n\n\nView Team GitHub Repository\n\n\nTeam Project GitHub Quarto Analytics\n\n\n\n\n\n\n\n\n\nArea: Marketing Analytics\n\n\nTools: Tableau, Python, statistical testing\n\n\nIn AD 654 Marketing Analytics, I analyzed customer and campaign data using summary statistics, Tableau dashboards, clustering, and A/B testing. One project compared email image performance using click-through rate, CTA response rate, conversion rate, and unsubscribe rate.\n\n\nMarketing Analytics A/B Testing Tableau\n\n\n\n\n\n\n\n\n\nArea: Customer Analytics\n\n\nTools: K-means clustering, standardization, interpretation\n\n\nI used K-means clustering to segment customer data based on behavior, spending, visit patterns, and engagement indicators. The project included data preparation, model selection, cluster interpretation, and business recommendations.\n\n\nClustering Segmentation Business Insights\n\n\n\n\n\n\n\n\n\nArea: Cloud Computing\n\n\nTools: AWS EC2, VPC, EBS, RDS, Lambda, ELB, Auto Scaling, Elastic Beanstalk\n\n\nI completed AWS Cloud Foundations labs covering major cloud services and deployment concepts. These labs helped me understand cloud infrastructure, networking, storage, serverless computing, and basic deployment workflows.\n\n\nAWS EC2 Lambda Cloud Foundations\n\n\n\n\n\n\n\n\n\nArea: Personal Portfolio and Web Publishing\n\n\nTools: Quarto, GitHub Pages, HTML, CSS\n\n\nThis portfolio website was built with Quarto and hosted through GitHub Pages. It presents my academic background, technical projects, CV, and contact information in a clear professional format for employers and networking.\n\n\nPortfolio Quarto GitHub Pages"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "\nLutong Wen\n",
+    "section": "",
+    "text": "Boston University MET Portfolio\n\n\n\n\nI am a Boston University Metropolitan College student in Applied Business Analytics with a background in project management, marketing analytics, web analytics, and cloud computing.\n\n\nThis portfolio highlights my academic projects, technical skills, CV, and contact information. My current career interests include business analytics, marketing analytics, cloud-based analytics, and data-driven program management.\n\n\nView Projects View CV"
+  },
+  {
+    "objectID": "index.html#portfolio-focus",
+    "href": "index.html#portfolio-focus",
+    "title": "\nLutong Wen\n",
+    "section": "Portfolio Focus",
+    "text": "Portfolio Focus\n\n\n\n\n\nBusiness Analytics\n\n\nUsing data to support business decisions, identify patterns, and communicate practical insights.\n\n\n\n\n\n\n\n\nMarketing and Web Analytics\n\n\nAnalyzing customer behavior, campaign performance, A/B testing results, and digital engagement.\n\n\n\n\n\n\n\n\nProject Management\n\n\nConnecting analytics work with planning, stakeholder communication, risk management, and business value.\n\n\n\n\n\n\n\n\nCloud Foundations\n\n\nBuilding familiarity with AWS services, deployment basics, and cloud-based technical workflows."
+  },
+  {
+    "objectID": "index.html#featured-skills",
+    "href": "index.html#featured-skills",
+    "title": "\nLutong Wen\n",
+    "section": "Featured Skills",
+    "text": "Featured Skills\n\nPython SQL Tableau GitHub Quarto AWS Marketing Analytics Project Management"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "\nProfessional Introduction\n",
+    "section": "",
+    "text": "About Me\n\n\n\n\nMy name is Lutong Wen, and I am currently pursuing a Master of Science in Applied Business Analytics at Boston University Metropolitan College. I also completed a Master of Science in Project Management at Boston University MET.\n\n\nMy academic and professional interests focus on business analytics, marketing analytics, data visualization, cloud computing, and project management. I am especially interested in using data to support business decisions, improve customer understanding, and communicate insights clearly."
+  },
+  {
+    "objectID": "about.html#academic-and-career-interests",
+    "href": "about.html#academic-and-career-interests",
+    "title": "\nProfessional Introduction\n",
+    "section": "Academic and Career Interests",
+    "text": "Academic and Career Interests\n\n\n\nBusiness Analytics\n\n\nI am interested in using data to identify patterns, evaluate business problems, and support practical decision-making.\n\n\n\n\nMarketing and Web Analytics\n\n\nMy coursework has helped me analyze customer behavior, campaign performance, A/B testing results, and digital engagement.\n\n\n\n\nCloud and Technical Skills\n\n\nI have practiced using tools such as Python, SQL, Tableau, GitHub, Quarto, and AWS through academic projects and labs.\n\n\n\n\nProject Management\n\n\nMy project management background helps me organize work, communicate clearly, understand stakeholder needs, and connect analysis to business value."
+  },
+  {
+    "objectID": "about.html#personal-brand",
+    "href": "about.html#personal-brand",
+    "title": "\nProfessional Introduction\n",
+    "section": "Personal Brand",
+    "text": "Personal Brand\n\n\nMy portfolio reflects two connected areas: analytics and project management. I want my work to show that I can not only analyze data, but also organize tasks, explain results, and connect findings to real business needs."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "\nCV and Professional Background\n",
+    "section": "",
+    "text": "Curriculum Vitae\n\n\n\n\nMy CV provides an overview of my education, technical skills, project management background, and work experience at Boston University.\n\n\nDownload my CV"
+  },
+  {
+    "objectID": "cv.html#professional-background-summary",
+    "href": "cv.html#professional-background-summary",
+    "title": "\nCV and Professional Background\n",
+    "section": "Professional Background Summary",
+    "text": "Professional Background Summary\n\n\nI have an academic background in Applied Business Analytics and Project Management. My experience includes graduate-level analytics projects, GitHub-based portfolio development, AWS lab work, Tableau dashboards, and project management coursework."
+  },
+  {
+    "objectID": "cv.html#education-and-skills",
+    "href": "cv.html#education-and-skills",
+    "title": "\nCV and Professional Background\n",
+    "section": "Education and Skills",
+    "text": "Education and Skills\n\n\n\nEducation\n\n\nBoston University Metropolitan College Master of Science in Project Management, January 2025\n\n\nUniversity of Massachusetts Boston Bachelor of Science in Management, Leadership and Organizational Change, May 2023 Bachelor of Arts in Labor Studies, May 2023\n\n\nI am currently continuing my academic development in Applied Business Analytics at Boston University MET.\n\n\n\n\nTechnical Skills\n\n\n\nMicrosoft Excel, PowerPoint, Word, and Microsoft Project\n\n\nTableau, GitHub, Quarto, Python, SQL, and AWS fundamentals\n\n\nTrello, Asana, Monday.com, and Smartsheet\n\n\n\n\n\nBusiness and Project Tools\n\n\n\nSWOT, PESTEL, VRIO, and Balanced Scorecard\n\n\nRisk Matrix and Stakeholder Analysis Matrix\n\n\nAgile, Waterfall, and Hybrid project management methods\n\n\n\n\n\nLanguages\n\n\n\nEnglish\n\n\nMandarin Chinese\n\n\nShandong Dialect"
+  },
+  {
+    "objectID": "cv.html#experience-highlights",
+    "href": "cv.html#experience-highlights",
+    "title": "\nCV and Professional Background\n",
+    "section": "Experience Highlights",
+    "text": "Experience Highlights\n\n\nAt Boston University, I have worked as a Graduate Teaching Assistant, Operations Assistant, and Special Events Assistant. These roles helped me build experience in academic support, assignment evaluation, operations coordination, event support, communication, and time-sensitive task management.\n\n\nMy project management background helps me connect technical analytics work with planning, communication, stakeholder needs, and practical business value."
+  }
+]

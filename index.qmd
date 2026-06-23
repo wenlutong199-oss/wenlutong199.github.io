@@ -1,9 +1,81 @@
 ---
-title: "Lutong Wen"
+pagetitle: "Lutong Wen"
 ---
 
-Welcome to my Quarto website.
+<div class="hero-section">
 
-This site was created for BU MET Lab 0.2.
+<p class="hero-label">Boston University MET Portfolio</p>
 
-Thank you for visiting.
+<h1>Lutong Wen</h1>
+
+<h2>Applied Business Analytics | Project Management | Cloud and Web Analytics</h2>
+
+<p>
+I am a Boston University Metropolitan College student in Applied Business Analytics with a background in project management, marketing analytics, web analytics, and cloud computing.
+</p>
+
+<p>
+This portfolio highlights my academic projects, technical skills, CV, and contact information. My current career interests include business analytics, marketing analytics, cloud-based analytics, and data-driven program management.
+</p>
+
+<p>
+<a class="btn btn-primary" href="projects.html">View Projects</a>
+<a class="btn btn-outline-primary" href="cv.html">View CV</a>
+</p>
+
+</div>
+
+## Portfolio Focus
+
+<div class="row row-cols-1 row-cols-md-2 g-4">
+
+<div class="col">
+<div class="card h-100 shadow-sm">
+<div class="card-body">
+<h3 class="card-title">Business Analytics</h3>
+<p class="card-text">Using data to support business decisions, identify patterns, and communicate practical insights.</p>
+</div>
+</div>
+</div>
+
+<div class="col">
+<div class="card h-100 shadow-sm">
+<div class="card-body">
+<h3 class="card-title">Marketing and Web Analytics</h3>
+<p class="card-text">Analyzing customer behavior, campaign performance, A/B testing results, and digital engagement.</p>
+</div>
+</div>
+</div>
+
+<div class="col">
+<div class="card h-100 shadow-sm">
+<div class="card-body">
+<h3 class="card-title">Project Management</h3>
+<p class="card-text">Connecting analytics work with planning, stakeholder communication, risk management, and business value.</p>
+</div>
+</div>
+</div>
+
+<div class="col">
+<div class="card h-100 shadow-sm">
+<div class="card-body">
+<h3 class="card-title">Cloud Foundations</h3>
+<p class="card-text">Building familiarity with AWS services, deployment basics, and cloud-based technical workflows.</p>
+</div>
+</div>
+</div>
+
+</div>
+
+## Featured Skills
+
+<p>
+<span class="badge rounded-pill text-bg-primary">Python</span>
+<span class="badge rounded-pill text-bg-primary">SQL</span>
+<span class="badge rounded-pill text-bg-primary">Tableau</span>
+<span class="badge rounded-pill text-bg-primary">GitHub</span>
+<span class="badge rounded-pill text-bg-primary">Quarto</span>
+<span class="badge rounded-pill text-bg-primary">AWS</span>
+<span class="badge rounded-pill text-bg-primary">Marketing Analytics</span>
+<span class="badge rounded-pill text-bg-primary">Project Management</span>
+</p>

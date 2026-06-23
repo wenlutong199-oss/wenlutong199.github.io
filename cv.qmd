@@ -1,0 +1,88 @@
+---
+pagetitle: "CV"
+---
+
+<div class="page-hero">
+
+<p class="hero-label">Curriculum Vitae</p>
+
+<h1>CV and Professional Background</h1>
+
+<h2>Education, skills, and Boston University work experience</h2>
+
+<p>
+My CV provides an overview of my education, technical skills, project management background, and work experience at Boston University.
+</p>
+
+<p>
+<a class="btn btn-primary" href="files/Lutong_Wen_CV.pdf">Download my CV</a>
+</p>
+
+</div>
+
+## Professional Background Summary
+
+<div class="wide-card">
+<p>
+I have an academic background in Applied Business Analytics and Project Management. My experience includes graduate-level analytics projects, GitHub-based portfolio development, AWS lab work, Tableau dashboards, and project management coursework.
+</p>
+</div>
+
+## Education and Skills
+
+<div class="card-grid">
+
+<div class="info-card">
+<h3>Education</h3>
+<p><strong>Boston University Metropolitan College</strong><br>
+Master of Science in Project Management, January 2025</p>
+
+<p><strong>University of Massachusetts Boston</strong><br>
+Bachelor of Science in Management, Leadership and Organizational Change, May 2023<br>
+Bachelor of Arts in Labor Studies, May 2023</p>
+
+<p>
+I am currently continuing my academic development in Applied Business Analytics at Boston University MET.
+</p>
+</div>
+
+<div class="info-card">
+<h3>Technical Skills</h3>
+<ul>
+<li>Microsoft Excel, PowerPoint, Word, and Microsoft Project</li>
+<li>Tableau, GitHub, Quarto, Python, SQL, and AWS fundamentals</li>
+<li>Trello, Asana, Monday.com, and Smartsheet</li>
+</ul>
+</div>
+
+<div class="info-card">
+<h3>Business and Project Tools</h3>
+<ul>
+<li>SWOT, PESTEL, VRIO, and Balanced Scorecard</li>
+<li>Risk Matrix and Stakeholder Analysis Matrix</li>
+<li>Agile, Waterfall, and Hybrid project management methods</li>
+</ul>
+</div>
+
+<div class="info-card">
+<h3>Languages</h3>
+<ul>
+<li>English</li>
+<li>Mandarin Chinese</li>
+<li>Shandong Dialect</li>
+</ul>
+</div>
+
+</div>
+
+## Experience Highlights
+
+<div class="wide-card">
+<p>
+At Boston University, I have worked as a Graduate Teaching Assistant, Operations Assistant, and Special Events Assistant. These roles helped me build experience in academic support, assignment evaluation, operations coordination, event support, communication, and time-sensitive task management.
+</p>
+
+<p>
+My project management background helps me connect technical analytics work with planning, communication, stakeholder needs, and practical business value.
+</p>
+</div>

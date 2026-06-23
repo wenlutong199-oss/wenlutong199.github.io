@@ -1,0 +1,56 @@
+---
+pagetitle: "Contact"
+---
+
+<div class="page-hero">
+
+<p class="hero-label">Contact</p>
+
+<h1>Let’s Connect</h1>
+
+<h2>Professional networking, academic collaboration, and analytics opportunities</h2>
+
+<p>
+Thank you for visiting my portfolio website. You can contact or connect with me through the channels below.
+</p>
+
+<p>
+<a class="btn btn-primary" href="mailto:wenlutong199@gmail.com">Email Me</a>
+<a class="btn btn-outline-primary" href="https://www.linkedin.com/in/lutong-wen-a26396340/">LinkedIn</a>
+</p>
+
+</div>
+
+## Contact Information
+
+<div class="card-grid">
+
+<div class="info-card">
+<h3>Email</h3>
+<p><a href="mailto:wenlutong199@gmail.com">wenlutong199@gmail.com</a></p>
+</div>
+
+<div class="info-card">
+<h3>GitHub</h3>
+<p><a href="https://github.com/wenlutong199-oss">wenlutong199-oss</a></p>
+</div>
+
+<div class="info-card">
+<h3>LinkedIn</h3>
+<p><a href="https://www.linkedin.com/in/lutong-wen-a26396340/">Lutong Wen</a></p>
+</div>
+
+<div class="info-card">
+<h3>Portfolio Website</h3>
+<p><a href="https://wenlutong199-oss.github.io/wenlutong199.github.io/">Lutong Wen Portfolio</a></p>
+</div>
+
+</div>
+
+## Professional Interests
+
+<div class="wide-card">
+<p>
+I am open to professional networking, academic collaboration, and opportunities related to business analytics, marketing analytics, project management, and cloud-based analytics.
+</p>
+</div>

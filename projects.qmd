@@ -1,0 +1,132 @@
+---
+title: "Projects"
+---
+
+## Academic and Technical Projects
+
+The projects below highlight my coursework and technical development in analytics, visualization, cloud computing, and project management.
+
+<div class="row row-cols-1 row-cols-md-2 g-4">
+
+<div class="col">
+<div class="card h-100 shadow-sm">
+<div class="card-body">
+
+<h3 class="card-title">AD 688 Team Analytics Project</h3>
+
+<p><strong>Area:</strong> Web Analytics, Business Analytics, Portfolio Development</p>
+<p><strong>Tools:</strong> GitHub, Quarto, Python, Tableau, analytics reporting</p>
+
+<p>
+This team project represents collaborative course work in AD 688. The project involved working in a shared GitHub repository, organizing analysis files, developing portfolio-related analytics content, and communicating technical work in a professional format.
+</p>
+
+<p>
+<a class="btn btn-primary" href="https://github.com/hey1kim/AD688_Team1">View Team GitHub Repository</a>
+</p>
+
+<p>
+<span class="badge text-bg-primary">Team Project</span>
+<span class="badge text-bg-secondary">GitHub</span>
+<span class="badge text-bg-secondary">Quarto</span>
+<span class="badge text-bg-secondary">Analytics</span>
+</p>
+
+</div>
+</div>
+</div>
+
+<div class="col">
+<div class="card h-100 shadow-sm">
+<div class="card-body">
+
+<h3 class="card-title">Marketing Analytics and A/B Testing</h3>
+
+<p><strong>Area:</strong> Marketing Analytics</p>
+<p><strong>Tools:</strong> Tableau, Python, statistical testing</p>
+
+<p>
+In AD 654 Marketing Analytics, I analyzed customer and campaign data using summary statistics, Tableau dashboards, clustering, and A/B testing. One project compared email image performance using click-through rate, CTA response rate, conversion rate, and unsubscribe rate.
+</p>
+
+<p>
+<span class="badge text-bg-primary">Marketing Analytics</span>
+<span class="badge text-bg-secondary">A/B Testing</span>
+<span class="badge text-bg-secondary">Tableau</span>
+</p>
+
+</div>
+</div>
+</div>
+
+<div class="col">
+<div class="card h-100 shadow-sm">
+<div class="card-body">
+
+<h3 class="card-title">Customer Segmentation Project</h3>
+
+<p><strong>Area:</strong> Customer Analytics</p>
+<p><strong>Tools:</strong> K-means clustering, standardization, interpretation</p>
+
+<p>
+I used K-means clustering to segment customer data based on behavior, spending, visit patterns, and engagement indicators. The project included data preparation, model selection, cluster interpretation, and business recommendations.
+</p>
+
+<p>
+<span class="badge text-bg-primary">Clustering</span>
+<span class="badge text-bg-secondary">Segmentation</span>
+<span class="badge text-bg-secondary">Business Insights</span>
+</p>
+
+</div>
+</div>
+</div>
+
+<div class="col">
+<div class="card h-100 shadow-sm">
+<div class="card-body">
+
+<h3 class="card-title">AWS Cloud Foundations Labs</h3>
+
+<p><strong>Area:</strong> Cloud Computing</p>
+<p><strong>Tools:</strong> AWS EC2, VPC, EBS, RDS, Lambda, ELB, Auto Scaling, Elastic Beanstalk</p>
+
+<p>
+I completed AWS Cloud Foundations labs covering major cloud services and deployment concepts. These labs helped me understand cloud infrastructure, networking, storage, serverless computing, and basic deployment workflows.
+</p>
+
+<p>
+<span class="badge text-bg-primary">AWS</span>
+<span class="badge text-bg-secondary">EC2</span>
+<span class="badge text-bg-secondary">Lambda</span>
+<span class="badge text-bg-secondary">Cloud Foundations</span>
+</p>
+
+</div>
+</div>
+</div>
+
+<div class="col">
+<div class="card h-100 shadow-sm">
+<div class="card-body">
+
+<h3 class="card-title">GitHub Pages Portfolio Website</h3>
+
+<p><strong>Area:</strong> Personal Portfolio and Web Publishing</p>
+<p><strong>Tools:</strong> Quarto, GitHub Pages, HTML, CSS</p>
+
+<p>
+This portfolio website was built with Quarto and hosted through GitHub Pages. It presents my academic background, technical projects, CV, and contact information in a clear professional format for employers and networking.
+</p>
+
+<p>
+<span class="badge text-bg-primary">Portfolio</span>
+<span class="badge text-bg-secondary">Quarto</span>
+<span class="badge text-bg-secondary">GitHub Pages</span>
+</p>
+
+</div>
+</div>
+</div>
+
+</div>
